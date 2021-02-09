@@ -1,0 +1,56 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:timetable xmlns:myns = "http://www.itmo.ru/xml/lessons">
+	<myns:Monday>
+		<myns:Mathematic>
+		<myns:lector>Комарова Софья Андреевна</myns:lector>
+		<myns:start>09:00</myns:start>
+		<myns:finish>10:30</myns:finish>
+		</myns:Mathematic>
+		<myns:Physics>
+		<myns:lector>Смергалова Анастасия Андреевна</myns:lector>
+		<myns:start>10:40</myns:start>
+		<myns:finish>12:10</myns:finish>
+		</myns:Physics>
+		<myns:Computer_science>
+		<myns:lector>Иванчук Дмитрий Игоревич</myns:lector>
+		<myns:start>12:40</myns:start>
+		<myns:finish>14:10</myns:finish>
+		</myns:Computer_science>
+	</myns:Monday>
+	
+	<myns:Wendsday>
+		<myns:Computer_science>
+		<myns:lector>Иванчук Дмитрий Игоревич</myns:lector>
+		<myns:start>12:40</myns:start>
+		<myns:finish>14:10</myns:finish>
+		</myns:Computer_science>
+		<myns:Mathematic>
+		<myns:lector>Комарова Софья Андреевна</myns:lector>
+		<myns:start>14:20</myns:start>
+		<myns:finish>16:00</myns:finish>
+		</myns:Mathematic>
+		<myns:Mathematic>
+		<myns:lector>Комарова Софья Андреевна</myns:lector>
+		<myns:start>16:10</myns:start>
+		<myns:finish>17:40</myns:finish>
+		</myns:Mathematic>
+	</myns:Wendsday>
+
+	<myns:Friday>
+		<myns:Physics>
+		<myns:lector>Смергалова Анастасия Андреевна</myns:lector>
+		<myns:start>09:00</myns:start>
+		<myns:finish>10:30</myns:finish>
+		</myns:Physics>
+		<myns:Logic>
+		<myns:lector>Гельфард Израиль Моисеевич</myns:lector>
+		<myns:start>12:40</myns:start>
+		<myns:finish>14:10</myns:finish>
+		</myns:Logic>
+		<myns:History_of_Programming>
+		<myns:lector>Сергеев Александр Васильевич</myns:lector>
+		<myns:start>16:10</myns:start>
+		<myns:finish>17:40</myns:finish>
+		</myns:History_of_Programming>
+	</myns:Friday>
+</myns:timetable>

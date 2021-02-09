@@ -1,0 +1,57 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE timetable SYSTEM "lessons_DTD.dtd">
+<timetable>
+	<Day d_id = "1">
+		<class c_num = "1">
+		<lector>Комарова Софья Андреевна</lector>
+		<start>09:00</start>
+		<finish>10:30</finish>
+		</class>
+		<class c_num = "2">
+		<lector>Смергалова Анастасия Андреевна</lector>
+		<start>10:40</start>
+		<finish>12:10</finish>
+		</class>
+		<class c_num = "3">
+		<lector>Иванчук Дмитрий Игоревич</lector>
+		<start>12:40</start>
+		<finish>14:10</finish>
+		</class>
+	</Day>
+	
+	<Day d_id = "2">
+		<class c_num = "1">
+		<lector>Иванчук Дмитрий Игоревич</lector>
+		<start>12:40</start>
+		<finish>14:10</finish>
+		</class>
+		<class c_num = "2">
+		<lector>Комарова Софья Андреевна</lector>
+		<start>14:20</start>
+		<finish>16:00</finish>
+		</class>
+		<class c_num = "3">
+		<lector>Комарова Софья Андреевна</lector>
+		<start>16:10</start>
+		<finish>17:40</finish>
+		</class>
+	</Day>
+
+	<Day d_id = "3">
+		<class c_num = "1">
+		<lector>Смергалова Анастасия Андреевна</lector>
+		<start>09:00</start>
+		<finish>10:30</finish>
+		</class>
+		<class c_num = "2">
+		<lector>Гельфард Израиль Моисеевич</lector>
+		<start>12:40</start>
+		<finish>14:10</finish>
+		</class>
+		<class c_num = "3">
+		<lector>Сергеев Александр Васильевич</lector>
+		<start>16:10</start>
+		<finish>17:40</finish>
+		</class>
+	</Day>
+</timetable>

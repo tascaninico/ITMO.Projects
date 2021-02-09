@@ -1,0 +1,8 @@
+<!ELEMENT timetable (Day+)>
+<!ELEMENT Day(class*)>
+<!ATTLIST Day d_id CDATA #REQUIRED> 
+<!ELEMENT class(lector, start, finish)>
+<!ATTLIST class c_num CDATA #REQUIRED>
+<!ELEMENT lector (#PCDATA)>
+<!ELEMENT start (#PCDATA)>
+<!ELEMENT finish (#PCDATA)>

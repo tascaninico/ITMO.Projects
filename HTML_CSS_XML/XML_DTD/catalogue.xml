@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE timetable SYSTEM "DTDforXML.dtd">
+<library>
+	<book_catalog>
+		<book id = "1" isbn = "unknow" year = "year" issue = "issue">
+			<authors>
+				<author></author>
+			</authors>
+			<title></title>
+			<publishing></publishing>
+			<annotation></annotation>
+		</book>
+	</book_catalog>
+	
+	<author>&linux;&internet;</author>
+	
+	<author_catalog>
+		<author_book idref = ""></author_book>
+	</author_catalog>
+</library>
