@@ -1,0 +1,11 @@
+C:\Users\12345\source\repos\Lab_1.5_2\bin\Debug\Lab_1.5_2.exe.config
+C:\Users\12345\source\repos\Lab_1.5_2\bin\Debug\Lab_1.5_2.exe
+C:\Users\12345\source\repos\Lab_1.5_2\bin\Debug\Lab_1.5_2.pdb
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1.5_2.csprojAssemblyReference.cache
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1._5_2.StartForm.resources
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1._5_2.Properties.Resources.resources
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1.5_2.csproj.GenerateResource.cache
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1.5_2.csproj.CoreCompileInputs.cache
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1.5_2.exe
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1.5_2.pdb
+C:\Users\12345\source\repos\Lab_1.5_2\obj\Debug\Lab_1._5_2.RectangleForm.resources

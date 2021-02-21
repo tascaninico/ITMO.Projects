@@ -1,0 +1,10 @@
+C:\Users\12345\source\repos\Lab_1.5_1\bin\Debug\Lab_1.5_1.exe.config
+C:\Users\12345\source\repos\Lab_1.5_1\bin\Debug\Lab_1.5_1.exe
+C:\Users\12345\source\repos\Lab_1.5_1\bin\Debug\Lab_1.5_1.pdb
+C:\Users\12345\source\repos\Lab_1.5_1\obj\Debug\Lab_1.5_1.csprojAssemblyReference.cache
+C:\Users\12345\source\repos\Lab_1.5_1\obj\Debug\Lab_1._5_1.FormElipse.resources
+C:\Users\12345\source\repos\Lab_1.5_1\obj\Debug\Lab_1._5_1.Properties.Resources.resources
+C:\Users\12345\source\repos\Lab_1.5_1\obj\Debug\Lab_1.5_1.csproj.GenerateResource.cache
+C:\Users\12345\source\repos\Lab_1.5_1\obj\Debug\Lab_1.5_1.csproj.CoreCompileInputs.cache
+C:\Users\12345\source\repos\Lab_1.5_1\obj\Debug\Lab_1.5_1.exe
+C:\Users\12345\source\repos\Lab_1.5_1\obj\Debug\Lab_1.5_1.pdb
