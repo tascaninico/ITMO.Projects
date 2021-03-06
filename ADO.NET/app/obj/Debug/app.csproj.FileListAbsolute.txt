@@ -1,0 +1,22 @@
+W:\Заказы\бд биржа ADO\app\app\bin\Debug\app.exe.config
+W:\Заказы\бд биржа ADO\app\app\bin\Debug\app.exe
+W:\Заказы\бд биржа ADO\app\app\bin\Debug\app.pdb
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.csprojAssemblyReference.cache
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.Form1.resources
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.Properties.Resources.resources
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.csproj.GenerateResource.cache
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.exe
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.pdb
+W:\Заказы\бд биржа ADO\app\app\obj\Debug\app.frmAdd.resources
+C:\Users\12345\Desktop\app_7685573\app\app\bin\Debug\app.exe.config
+C:\Users\12345\Desktop\app_7685573\app\app\bin\Debug\app.exe
+C:\Users\12345\Desktop\app_7685573\app\app\bin\Debug\app.pdb
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.Form1.resources
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.frmAdd.resources
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.exe
+C:\Users\12345\Desktop\app_7685573\app\app\obj\Debug\app.pdb
